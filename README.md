@@ -2,17 +2,9 @@
 
 The eMERGE 4 Network is leveraging the R4 system, developed by the Coordinating Center at Vanderbilt University, to manage data collection, GIRA generation, and results delivery for sites.  R4 is a heavily customized version of REDCap, and as such makes the REDCap API available for  integration with external systems, task automation, and extending R4's capabilities.
 
-## Purpose of the Hackathon
+## Use Cases
 
-Taking from [Wikipedia](https://en.wikipedia.org/wiki/Hackathon), with emphasis added and links removed.
-
-> "The goal of a hackathon is to **create functioning software** or hardware by the end of the event. Hackathons tend to have a **specific focus**, which can include the programming language used, the operating system, an application, an **API**, or the subject and the demographic group of the programmers. In other cases, **there is no restriction on the type of software being created**." [1]
-
-The purpose of the eMERGE 4 Hackathon is to integrate with R4 via the REDCap API, using any programming language and approach.  Our hope is to give sites dedicated time to work on creating solutions, identifying groups who could possibly create a commonly shared code base, or at least develop a shared solution even if sites require implementations in different programming languages.
-
-## Who should attend?
-
-While the purpose of a hackathons is to "create functioning software", that does not mean only programmers should attend.  Hackathons benefit from the input of domain experts, stakeholders, usability experts, and more.  Anyone within eMERGE 4 who is interested in a particular topic/use case is encouraged to participate.
+We are currently asking for sites to propose use cases that they either have solved, or need a solution for.  We will track these within this [repository's Issues](https://github.com/emerge-ehri/r4-hackathon/issues).  If you are interested in an existing use case, either needing it solved or desiring to work on solving it, please add a comment or 👍 within the issue.  Don't see a use case?  [Please add one](https://github.com/emerge-ehri/r4-hackathon/issues/new).
 
 ## Schedule
 
@@ -28,3 +20,15 @@ The exact date and times of events are being scheduled, but the hackathon will b
     * The main event!  We will have separate Zoom rooms (either breakout rooms or separate Zoom sessions) where groups may join to collaboratively work on a task.  Attendees can feel free to switch rooms during the hackathon.
   * 1 hour - report out
     * Report out from each of the groups on progress made, challenges encountered, and next steps
+
+## Purpose of the Hackathon
+
+Taking from [Wikipedia](https://en.wikipedia.org/wiki/Hackathon), with emphasis added and links removed.
+
+> "The goal of a hackathon is to **create functioning software** or hardware by the end of the event. Hackathons tend to have a **specific focus**, which can include the programming language used, the operating system, an application, an **API**, or the subject and the demographic group of the programmers. In other cases, **there is no restriction on the type of software being created**." [1]
+
+The purpose of the eMERGE 4 Hackathon is to integrate with R4 via the REDCap API, using any programming language and approach.  Our hope is to give sites dedicated time to work on creating solutions, identifying groups who could possibly create a commonly shared code base, or at least develop a shared solution even if sites require implementations in different programming languages.
+
+## Who should attend?
+
+While the purpose of a hackathons is to "create functioning software", that does not mean only programmers should attend.  Hackathons benefit from the input of domain experts, stakeholders, usability experts, and more.  Anyone within eMERGE 4 who is interested in a particular topic/use case is encouraged to participate.
