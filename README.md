@@ -25,7 +25,7 @@ The exact date and times of events are being scheduled, but the hackathon will b
 
 Taking from [Wikipedia](https://en.wikipedia.org/wiki/Hackathon), with emphasis added and links removed.
 
-> "The goal of a hackathon is to **create functioning software** or hardware by the end of the event. Hackathons tend to have a **specific focus**, which can include the programming language used, the operating system, an application, an **API**, or the subject and the demographic group of the programmers. In other cases, **there is no restriction on the type of software being created**." [1]
+> "The goal of a hackathon is to **create functioning software** or hardware by the end of the event. Hackathons tend to have a **specific focus**, which can include the programming language used, the operating system, an application, an **API**, or the subject and the demographic group of the programmers. In other cases, **there is no restriction on the type of software being created**." [1](https://en.wikipedia.org/wiki/Hackathon)
 
 The purpose of the eMERGE 4 Hackathon is to integrate with R4 via the REDCap API, using any programming language and approach.  Our hope is to give sites dedicated time to work on creating solutions, identifying groups who could possibly create a commonly shared code base, or at least develop a shared solution even if sites require implementations in different programming languages.
 
