@@ -45,4 +45,12 @@ Generating a repository of code is not actually a requirement for this hackathon
 
 Your group may generate documentation or guidelines, such as enhancing SOPs, or developing an FAQ for bulk uploading data.
 
-**The main goal is to solve a problem identified in a specific use case.**
+🎯 **The main goal is to solve a problem identified in a specific use case.** 🎯
+
+### Where should we put our code?
+
+We want to encourage groups to make their code available as a repository on the [eMERGE EHRI GitHub organization](https://github.com/emerge-ehri).  This is not a requirement for participating.  We understand that there may be reasons for code not to be made publicly available.  If you would like to share code with just eMERGE sites, you can always set the GitHub repository to "private".
+
+### Do I have to be a GitHub expert?
+
+No. Members of your group can help, or you can work with Luke Rasmussen if you need assistance with getting things put in GitHub.
