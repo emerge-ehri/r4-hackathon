@@ -8,7 +8,7 @@ We are currently asking for sites to propose use cases that they either have sol
 
 ## Schedule
 
-The exact date and times of events are being scheduled, but the hackathon will be structured with the following events.  Participants are free to come and go as they please throughout any of the events, there is no requirement to attend every session, or to need to stay of an entire session.
+The exact date and times of events are being scheduled, but the hackathon will be structured with the following events.  There is no requirement to attend every session, and participants are free to come and go as they please throughout any of the events.
 
 * Pre-Hackathon
   * 1 hour - introduction to REDCap API (Firas Wehbe, Northwestern)
