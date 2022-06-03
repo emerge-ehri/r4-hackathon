@@ -13,12 +13,12 @@ The exact date and times of events are being scheduled, but the hackathon will b
 * Pre-Hackathon (week of 6/6-6/10)
   * 1 hour - introduction to REDCap API (Firas Wehbe, Northwestern)
     * This session will be an introduction to the REDCap API, how it works, and how to interact with it using code.  This is being scheduled ahead of the main hackathon event so developers who need an introduction to the REDCap API have some time to practice what they learned before the event.
-* Hackathon (week of 6/13-6/17)
-  * 1 hour - Existing projects, requests for help
+* Hackathon: 6/15/2022 1:00 - 5:00pm CT
+  * 1:00-2:00 - Existing projects, requests for help
     * This session will include presentations from sites who may have started or completed some R4 API integration.  In addition to giving an overview of the code, the presenter should have a specific ask of participants.  This may be asking for sites who want to implement their code, or requests to develop/extend features during the hackathon.
-  * 2 hours - hands-on hacking
+  * 2:00-4:00 - hands-on hacking
     * The main event!  We will have separate Zoom rooms (either breakout rooms or separate Zoom sessions) where groups may join to collaboratively work on a task.  Attendees can feel free to switch rooms during the hackathon.
-  * 1 hour - report out
+  * 4:00-5:00 - report out
     * Report out from each of the groups on progress made, challenges encountered, and next steps
 
 ## FAQ
