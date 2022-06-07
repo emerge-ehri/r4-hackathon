@@ -10,7 +10,7 @@ We are currently asking for sites to propose use cases that they either have sol
 
 The exact date and times of events are being scheduled, but the hackathon will be structured with the following events.  There is no requirement to attend every session, and participants are free to come and go as they please throughout any of the events.
 
-* Pre-Hackathon (week of 6/6-6/10)
+* Pre-Hackathon 6/10/2022 1:00 - 2:00pm CT
   * 1 hour - introduction to REDCap API (Firas Wehbe, Northwestern)
     * This session will be an introduction to the REDCap API, how it works, and how to interact with it using code.  This is being scheduled ahead of the main hackathon event so developers who need an introduction to the REDCap API have some time to practice what they learned before the event.
 * Hackathon: 6/15/2022 1:00 - 5:00pm CT
