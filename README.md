@@ -2,6 +2,8 @@
 
 The eMERGE 4 Network is leveraging the R4 system, developed by the Coordinating Center at Vanderbilt University, to manage data collection, GIRA generation, and results delivery for sites.  R4 is a heavily customized version of REDCap, and as such makes the REDCap API available for  integration with external systems, task automation, and extending R4's capabilities.
 
+The Hackathon's shared drive (slides, etc) is located [here](https://drive.google.com/drive/u/0/folders/1YE19lvOeIfGDzCeolxcjIpzVY8zB4Jf1).
+
 ## Use Cases
 
 We are currently asking for sites to propose use cases that they either have solved, or need a solution for.  We will track these within this [repository's Issues](https://github.com/emerge-ehri/r4-hackathon/issues).  If you are interested in an existing use case, either needing it solved or desiring to work on solving it, please add a comment or 👍 within the issue.  Don't see a use case?  [Please add one](https://github.com/emerge-ehri/r4-hackathon/issues/new).
